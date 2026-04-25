@@ -41,9 +41,6 @@ htmlcov/
 # Sphinx documentation build
 docs/_build/
 
-# Migrations
-**/migrations/
-
 # dist and build
 build/
 dist/
